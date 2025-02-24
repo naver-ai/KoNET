@@ -1,0 +1,6 @@
+PyMuPDF
+pandas
+pillow
+tqdm
+openai
+requests
