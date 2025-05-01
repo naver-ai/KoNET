@@ -12,7 +12,7 @@ Official Implementation of KoNET | [Paper](https://arxiv.org/abs/2502.15422)
 
 Our academic paper, which describes our method in detail and provides full experimental results and analyses, can be found here:<br>
 > [**Evaluating Multimodal Generative AI with Korean Educational Standards**](https://arxiv.org/abs/2502.15422).<br>
-> [Sanghee Park](https://scholar.google.com/citations?user=_ryVHp0AAAAJ) and [Geewook Kim](https://geewook.kim). To appear at NAACL 2025.
+> [Sanghee Park](https://scholar.google.com/citations?user=_ryVHp0AAAAJ) and [Geewook Kim](https://geewook.kim). In NAACL 2025.
 
 ## Software Installation
 - Requires-Python >=3.9
