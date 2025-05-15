@@ -4,7 +4,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2502.15422-orange)](https://arxiv.org/abs/2502.15422)
 [![Conference](https://img.shields.io/badge/NAACL-2025-red)]()
 
-Official Implementation of KoNET | [Paper](https://arxiv.org/abs/2502.15422)
+Official Implementation of KoNET | [Paper](https://arxiv.org/abs/2502.15422) | [Poster](https://drive.google.com/file/d/1OhLqHHkotRZ_sX7m_Q0xnSuezvRSw-S3/view?usp=drive_link) | [Slide](https://drive.google.com/file/d/1JL4K90b5hJoOX3VmiP8c1A7k6gtXAC_X/view?usp=drive_link)
 </div>
 
 ## Introduction
